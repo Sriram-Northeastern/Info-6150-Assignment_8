@@ -1,0 +1,18 @@
+{
+  "name": "assignment-7",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mmongo": "^1.0.1",
+    "mongodb": "^4.11.0",
+    "mongoose": "^5.13.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sribalaji",
+  "license": "ISC"
+}
